@@ -6,6 +6,7 @@ https://github.com/rockchip-linux/rknn-toolkit2
 https://github.com/rockchip-linux/rknpu2  
 ## 三、编译
 cd rknn_3588_project  
+make  
 ## 四、运行
 cd workspace  
 ./rknn
